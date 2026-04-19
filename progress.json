@@ -1,0 +1,95 @@
+{
+  "current_level": 1,
+  "current_project": "Huffman or LZ77 compression",
+  "tasks": {
+    "LEVEL 1": [
+      {"name": "Huffman or LZ77 compression", "status": "done"},
+      {"name": "JSON parser from scratch", "status": "not done"},
+      {"name": "CSV parser (streaming)", "status": "not done"},
+      {"name": "Regex engine (NFA/backtracking)", "status": "not done"},
+      {"name": "B-tree / Red-Black tree", "status": "not done"},
+      {"name": "Hash map (open addressing/chaining)", "status": "not done"},
+      {"name": "String interning system", "status": "not done"},
+      {"name": "Expression evaluator", "status": "not done"},
+      {"name": "Lexer for simple language", "status": "not done"},
+      {"name": "Stack + heap", "status": "not done"}
+    ],
+    "LEVEL 2": [
+      {"name": "malloc/free implementation", "status": "not done"},
+      {"name": "Arena allocator", "status": "not done"},
+      {"name": "Garbage collector (mark & sweep)", "status": "not done"},
+      {"name": "Memory leak detector", "status": "not done"},
+      {"name": "Stack frame", "status": "not done"},
+      {"name": "Virtual memory page", "status": "not done"},
+      {"name": "Heap allocation debugger (track allocations + leaks)", "status": "not done"},
+      {"name": "Fragmentation visualizer", "status": "not done"},
+      {"name": "Object pool allocator", "status": "not done"},
+      {"name": "Reference counting system", "status": "not done"}
+    ],
+    "LEVEL 3": [
+      {"name": "Brainfuck interpreter", "status": "not done"},
+      {"name": "Forth interpreter", "status": "not done"},
+      {"name": "Tiny scripting language", "status": "not done"},
+      {"name": "Bytecode VM", "status": "not done"},
+      {"name": "Register-based VM", "status": "not done"},
+      {"name": "AST interpreter", "status": "not done"},
+      {"name": "Compiler → bytecode pipeline", "status": "not done"},
+      {"name": "Constant folding optimizer", "status": "not done"},
+      {"name": "Instruction set emulator", "status": "not done"},
+      {"name": "Execution engine", "status": "not done"}
+    ],
+    "LEVEL 4": [
+      {"name": "Process scheduler", "status": "not done"},
+      {"name": "Threading / context switching", "status": "not done"},
+      {"name": "Syscall dispatcher", "status": "not done"},
+      {"name": "Interrupt (IRQ)", "status": "not done"},
+      {"name": "PCB (process control block) system", "status": "not done"},
+      {"name": "Mini shell", "status": "not done"},
+      {"name": "Init", "status": "not done"},
+      {"name": "Virtual filesystem layer", "status": "not done"},
+      {"name": "Permission system", "status": "not done"},
+      {"name": "Driver abstraction layer", "status": "not done"}
+    ],
+    "LEVEL 5": [
+      {"name": "Bootloader", "status": "not done"},
+      {"name": "Minimal kernel (memory + output)", "status": "not done"},
+      {"name": "IDT", "status": "not done"},
+      {"name": "GDT / segmentation model", "status": "not done"},
+      {"name": "Paging system", "status": "not done"},
+      {"name": "Kernel heap allocator", "status": "not done"},
+      {"name": "Syscall interface", "status": "not done"},
+      {"name": "Context switching", "status": "not done"},
+      {"name": "Device driver model", "status": "not done"},
+      {"name": "Kernel logging system", "status": "not done"},
+      {"name": "Boot sequence (real-mode → protected-mode)", "status": "not done"},
+      {"name": "Memory map parsing", "status": "not done"},
+      {"name": "Hardware abstraction layer (HAL)", "status": "not done"},
+      {"name": "BIOS/UEFI entry", "status": "not done"},
+      {"name": "Linker scripts (linker.ld)", "status": "not done"}
+    ],
+    "LEVEL 6": [
+      {"name": "Tiny operating system kernel", "status": "not done"},
+      {"name": "File system (FAT-like/custom)", "status": "not done"},
+      {"name": "Shell on top of kernel", "status": "not done"},
+      {"name": "Process manager", "status": "not done"},
+      {"name": "Terminal UI system", "status": "not done"},
+      {"name": "Multitasking OS", "status": "not done"},
+      {"name": "User vs kernel space separation", "status": "not done"},
+      {"name": "System call API", "status": "not done"},
+      {"name": "Networking stack", "status": "not done"},
+      {"name": "Driver framework", "status": "not done"}
+    ],
+    "LEVEL 7": [
+      {"name": "CHIP-8 emulator", "status": "not done"},
+      {"name": "Game Boy CPU emulator", "status": "not done"},
+      {"name": "6502 emulator", "status": "not done"},
+      {"name": "RISC-V subset emulator", "status": "not done"},
+      {"name": "Instruction pipeline", "status": "not done"},
+      {"name": "CPU cache behavior model (L1/L2 hit/miss tracking)", "status": "not done"},
+      {"name": "ELF / PE loader", "status": "not done"},
+      {"name": "Disassembler", "status": "not done"},
+      {"name": "Virtual machine with debugger", "status": "not done"},
+      {"name": "OS + userland", "status": "not done"}
+    ]
+  }
+}
